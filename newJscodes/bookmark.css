@@ -1,0 +1,39 @@
+.container-div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.form-tab {
+    margin-top: 20px;
+}
+
+.button-tab {
+    text-align: center;
+}
+
+.bookmark-list {
+    margin-top: 20px;
+}
+
+.bookmark-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.bookmark-list ul li {
+    margin-bottom: 10px;
+}
+
+.text-danger {
+    font-size: 0.875em;
+    color: #dc3545;
+}

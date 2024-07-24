@@ -1,0 +1,27 @@
+.bg-container{
+    background-color: #3a6781;
+    padding: 30px;
+    height:100vh;
+}
+.heading{
+    font size 36px;
+    font-family: "Roboto" ;
+    font-weight 500px ;
+    text-align: center;
+    margin-bottom: 20px;
+    color:white;
+}
+.list-container{
+    background-color: white;
+    border-radius: 6px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 45px;
+    padding-left: 45px;
+
+}
+.delvery-text{
+    font-family: "Roboto";
+    font-size: 16px;
+    color:white;
+}

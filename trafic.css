@@ -1,0 +1,57 @@
+.background-card{
+    background-color:#86d2f2;
+    height: 100vh;
+ 
+}
+.heading-card{
+    color:#1f1d41;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.button-card{
+    margin-left: 20rem;
+}
+.button1{
+    border-radius: 0.6rem;
+    color:white;
+    background-color: #1f1d41;
+    padding:7px;
+
+    text-align: center;
+}
+.button2{
+    border-radius: 0.6rem;
+    color:white;
+    background-color: #1f1d41;
+    padding:7px;
+
+    text-align: center;
+}
+.button3{
+    border-radius: 0.6rem;
+    color:white;
+    background-color: #1f1d41;
+    padding:7px;
+
+    text-align: center;
+}
+.traffic-light{
+    border-radius: 10px;
+    background-color: #1f1d41;
+    height: 20px;
+}
+.Responding-bulb{
+    background-color: #4b5069;
+    width:45px;
+    height:45px;
+    border-radius: 45px;
+    margin: 15px;
+    text-align: center;
+}
+.traffic-light{
+    background-color: #1f1d41;
+    width: 98px;
+    height: 255px;
+    border-radius: 25px;
+}
